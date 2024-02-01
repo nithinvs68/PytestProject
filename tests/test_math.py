@@ -31,6 +31,7 @@ def browser():
     # driver.quit()
 
 
+
 # def test_basic_duck_search(browser):
 def test_basic_duckduckgo_search(browser):
     URL = 'https://www.duckduckgo.com'
